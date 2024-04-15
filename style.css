@@ -285,7 +285,7 @@ p {
 	margin-top: 50px;
 }
 #KLU .KLU-item {
-	flex-basis: 80%;
+	flex-basis: 30%;
 	display: flex;
 	align-items: flex-start;
 	justify-content: center;
